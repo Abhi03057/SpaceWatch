@@ -1,4 +1,6 @@
 🌌 SpaceWatch
+
+
 SpaceWatch is a modern, responsive web application that fetches and displays the daily Astronomy Picture of the Day (APOD) using NASA's open API. It combines stunning visual design with clean code to deliver a smooth user experience for space and astronomy enthusiasts.
 
 🚀 Features
